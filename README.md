@@ -35,8 +35,8 @@ If you're curious about the work I'm doing, you can explore some of my projects:
 ### 🌐 Find Me Online
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arianacrios/)
-- ✉️ Email: *(add your email here)*  
-- 🐙 GitHub: https://github.com/ArianaLytics  
+
+- 🐙 [GitHub](https://github.com/ArianaLytics)
 
 ---
 
