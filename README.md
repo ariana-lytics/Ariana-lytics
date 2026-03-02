@@ -72,18 +72,10 @@ Open to: **Product Operations · Business Analytics · Operations & Supply Chain
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arianacrios-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arianacrios/)
-[![GitHub](https://img.shields.io/badge/GitHub-ArianaLytics-181717?style=flat&logo=github)](https://github.com/ArianaLytics)
+[![GitHub](https://img.shields.io/badge/GitHub-ariana--lytics-181717?style=flat&logo=github)](https://github.com/ariana-lytics)
 📧 arianariosaguiar@gmail.com
 
 ---
 
-*If you're working on analytics-driven operations, product tooling, or process optimization — I'd love to connect.*
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/arianacrios/
-- 🐙 GitHub: https://github.com/ArianaLytics
-
----
-
 Thanks for stopping by!  
-If you’re working on **analytics-driven operations, SAP systems, or process optimization**, I’d love to connect.
+*If you're working on analytics-driven operations, product tooling, or process optimization — I'd love to connect.* 
